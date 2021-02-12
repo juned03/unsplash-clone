@@ -1,0 +1,51 @@
+
+.main-container{
+    border: solid 50px gray;
+    position: relative;
+}
+.unp-logo{
+    width: 25px;
+    height: 25px;
+}
+.img-1{
+    height: 140px;
+    width: 100%;
+}
+.img-2{
+    height: 140px;
+    margin-bottom: 5rem;
+}
+.form-container{
+    width: 27%;
+    position: absolute;
+    top: 20%;
+    right: 20%;
+    background-color: white;
+}
+button{
+    width: 100%;
+    color: white;
+    background-color: black;
+    border: none;
+}
+.fa-facebook,
+.fa-google,
+.fa-twitter{
+    font-size: 1.8rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+.text{
+    color: grey;
+    font-weight: 500;
+}
+.fa-chevron-right{
+    color: black;
+}
+.log-in{
+    color: black;
+}
+.login-option-container{
+   background-color: #f0f0f0;
+}
+
